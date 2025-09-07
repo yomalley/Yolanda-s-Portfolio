@@ -1,4 +1,4 @@
-# 🌟 Yolanda O’Malley – AI & Data Engineering Portfolio
+# 🌟 Yolanda OMalley – AI & Data Engineering Portfolio
 
 Welcome to my portfolio!  
 This repo serves as a **central hub** for my AI, Machine Learning, Data Engineering, and Generative AI projects.  
